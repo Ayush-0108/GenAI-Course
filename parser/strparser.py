@@ -17,3 +17,4 @@ chain = template | model | parser
 result = chain.invoke({"topic":topic})
 
 print(result)
+print(type(result))
