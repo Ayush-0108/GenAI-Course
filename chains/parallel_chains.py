@@ -13,7 +13,7 @@ llm = HuggingFaceEndpoint(repo_id="Qwen/Qwen2.5-7B-Instruct",
                           task = "text-generation")
 
 model2 = ChatHuggingFace(llm=llm)
-
+# model2 might take more time than usual to load please keep patience, thank you
 parser = StrOutputParser()
 
 prompt1 = PromptTemplate(template = "write a detailed notes on the {topic}",
@@ -36,3 +36,5 @@ chain = parallel_chain | merge_chain
 result = chain.invoke({"topic":"linear regression"})
 
 print(result)
+
+chain.get_graph().print_ascii()
