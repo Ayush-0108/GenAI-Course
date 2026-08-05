@@ -2,7 +2,7 @@
 
 ## Installation Guide
 
-This project uses Python and a virtual environment to isolate dependencies.
+This project uses Python and a virtual environment to isolate dependencies and following are the instructions on how to run it on your device(preferably pc or laptop).
 
 ### 1. Install Python
 
