@@ -1,6 +1,7 @@
 langchain
 langchain-core
 langchain-classic
+langchain-community
 
 langchain-openai
 openai
