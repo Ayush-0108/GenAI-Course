@@ -2,6 +2,8 @@ langchain
 langchain-core
 langchain-classic
 langchain-community
+pypdf
+langchain-pdf
 
 langchain-openai
 openai
