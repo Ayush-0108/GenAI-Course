@@ -4,6 +4,7 @@ langchain-classic
 langchain-community
 pypdf
 langchain-pdf
+bs4
 
 langchain-openai
 openai
