@@ -1,4 +1,4 @@
-# GenAI-Course
+# GenAI-Projects
 
 ## Installation Guide
 
