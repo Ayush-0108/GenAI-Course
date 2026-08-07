@@ -5,6 +5,8 @@ langchain-community
 pypdf
 langchain-pdf
 bs4
+langchain-experimental
+sentence-transformers
 
 langchain-openai
 openai
