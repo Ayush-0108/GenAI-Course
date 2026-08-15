@@ -7,6 +7,7 @@ langchain-pdf
 bs4
 langchain-experimental
 sentence-transformers
+langchain-chroma
 
 langchain-openai
 openai
